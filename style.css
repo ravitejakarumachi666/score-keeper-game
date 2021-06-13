@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:100px 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightcyan;
+    height:500px;
+    width: 550px;
+    border-radius:5px;
+    border:2px solid gold;
+}
+#buttons{
+    margin-top: 18px;
+}
